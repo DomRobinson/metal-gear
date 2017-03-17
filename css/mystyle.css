@@ -1,0 +1,107 @@
+body {
+	padding-bottom: 80px;
+    padding-top: 60px;
+    background-image: url("../assets/bckgrnd2.jpeg");
+    background-size: cover;
+}
+
+/* Dropdown menu background color*/
+
+.navbar-nav > li > .dropdown-menu {     background-color:black;  }
+
+/* Dropdown menu font color*/ 
+
+ .navbar-nav > li > .dropdown-menu a{   color:fuchsia;  }
+
+.page-header{
+    margin-top: 0;   
+}
+
+.panel-body {
+    padding-top: 0;
+    background: black;
+}
+
+.panel{
+    border: #000;
+}
+
+.featuredImg {
+    padding-bottom: 15px;
+}
+
+.container {
+    color: fuchsia;
+}
+
+.thumbnail {
+    background: black;
+    border: #000;
+}
+
+h2{
+    font-family: cursive;
+    color: darkgoldenrod;
+}
+
+h3 {
+    color:forestgreen;
+    font-family: 'Barrio',cursive;
+}
+
+.well {
+    background: black;
+    border: transparent;
+}
+
+p {
+    font-family: 'Amatica SC',cursive;
+    font-size: 25px;
+    color: fuchsia;
+}
+
+li {
+    color: forestgreen;
+    font-family: 'Amatica SC',cursive;
+    font-size: 20px;
+    
+}
+
+h1 {
+    font-family: 'Amatica SC', cursive;
+
+}
+
+/*modal CSS */
+.modal-content{
+    background-color:black;
+ }
+
+.modal-header{
+    background-color:black;
+    border-bottom-color: forestgreen;
+}
+
+.modal-footer{
+    background-color:black;
+    border-top-color:forestgreen;
+}
+
+h4{
+    color: forestgreen;
+}
+
+/*footer CSS*/
+i {
+    padding-top: 15px;
+}
+
+footer {
+    height: 120px;
+}
+
+html{
+zoom: 90%;
+}
+
+/*iframe CSS */
