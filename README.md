@@ -1,19 +1,16 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Blog Home](http://startbootstrap.com/template-overviews/blog-home/)
-
-[Blog Home](http://startbootstrap.com/template-overviews/blog-home/) is a basic blog homepage HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+# Cinema Cabin
 
 ## Getting Started
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/blog-home/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-blog-home.git`
-* Fork the repo
+This website shows reviews for movies and tv shows. 
+It also shows videos for recent trailers.
+The target audience for my website is young adults aged 14+.
 
 ### Creator
 
-This website was created by  **[Dominic Robinson]
+This website was created by  **[Dominic Robinson]**
 
-* https://twitter.com/Dom__Robinson
-* https://github.com/DomRobinson
+- https://twitter.com/Dom__Robinson
+- https://github.com/DomRobinson
 
 ####Site Built by Dominic Robinson
